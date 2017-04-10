@@ -1,5 +1,9 @@
 body {
     background: #ffffcc;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 15%;
 }
 p {
     font-family: Georgia, serif;
@@ -9,4 +13,16 @@ h1 {
 }
 h2 {
     font-family: Georgia, serif;
+}
+a {
+}
+img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lk {
+    margin-left: 8%;
+    font-size: 20pt;
 }
